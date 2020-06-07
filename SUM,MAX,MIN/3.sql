@@ -1,0 +1,4 @@
+-- 동물 수 구하기
+SELECT COUNT(ANIMAL_ID) AS COUNT FROM ANIMAL_INS
+
+-- 문제 좀 잘 읽자 ^^
